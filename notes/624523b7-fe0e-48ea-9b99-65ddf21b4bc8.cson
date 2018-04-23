@@ -1,0 +1,17 @@
+createdAt: "2018-04-15T21:30:21.011Z"
+updatedAt: "2018-04-16T15:27:05.865Z"
+type: "MARKDOWN_NOTE"
+folder: "ad14fd65d81dd1e083f3"
+title: "April 15"
+content: '''
+  # April 15
+  
+  ## Side projects:
+  #### ELK - Elasticsearch, Logstash, & Kibana
+    - [x] Get containerized elasticsearch stack up and running in Docker
+      - Added readme about these steps to Github
+    - [x] Add sample data to project, load data & connect elasticsearch
+'''
+tags: []
+isStarred: false
+isTrashed: false
